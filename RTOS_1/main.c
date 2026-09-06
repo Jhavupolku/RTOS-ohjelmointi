@@ -1,3 +1,5 @@
+//tavoite pistemäärä = 1, olin tällä viikolla kipeänä ja ajattelin tekeväni tehtävän kun voin paremmin.
+
 #include <zephyr/kernel.h>
 #include <zephyr/sys/printk.h>
 #include <zephyr/device.h>
