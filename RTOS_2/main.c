@@ -1,3 +1,5 @@
+//tavoite pistemäärä = 2, sisältää sekvenssin vastaanoton ja ajastuksen.
+
 #include <zephyr/kernel.h>
 #include <zephyr/sys/printk.h>
 #include <zephyr/device.h>
