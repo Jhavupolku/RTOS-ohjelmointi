@@ -1,3 +1,5 @@
+//tavoite pistemäärä = 2, yksinkertaiset testit ja parseri, sekä lisätyt tekstikeissit.
+
 #include <zephyr/kernel.h>
 #include <zephyr/sys/printk.h>
 #include <zephyr/device.h>
